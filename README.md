@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 嗨，歡迎光臨，謝謝再聯絡
+Bruce taught me how to write a web. That's interesting!
